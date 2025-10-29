@@ -1,6 +1,6 @@
 # 🏭 **Warehouse Management System**
 
-** Warehouse Management System** is a program developed in **C**, designed to organize and efficiently manage data related to **clients**, **sales**, and **products**.  
+**Warehouse Management System** is a program developed in **C**, designed to organize and efficiently manage data related to **clients**, **sales**, and **products**.  
 The application operates entirely through **text file processing**, enabling structured reading, analysis, and modification of stored information.
 
 ---
